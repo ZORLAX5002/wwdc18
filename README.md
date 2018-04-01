@@ -1,2 +1,2 @@
 # wwdc18
-My WWDC18 submission.
+This is the swift playground I am submitting for Apple's Worldwide Developer Conference in 2018.
